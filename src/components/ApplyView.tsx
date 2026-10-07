@@ -726,7 +726,7 @@ export default function ApplyView({ onSuccessSubmit }: ApplyViewProps) {
                     </li>
                     <li className="flex items-start gap-2.5 font-light">
                       <div className="mt-1 w-1.5 h-1.5 rounded-full bg-[#9A7D3C] shrink-0" />
-                      <span><strong>Separation split-ups:</strong> Curfew at 10pm (Mon-Thu) and midnight (Fri-Sun). Genders must separate and move to designated rooms/spaces at 9pm on weekdays and 10pm weekends.</span>
+                      <span><strong>Separation split-ups:</strong> Curfew at 9pm (Mon-Thu) and 10pm (Fri-Sun). Genders must separate and move to designated rooms/spaces at 9pm on weekdays and 10pm weekends.</span>
                     </li>
                     <li className="flex items-start gap-2.5 font-light">
                       <div className="mt-1 w-1.5 h-1.5 rounded-full bg-[#9A7D3C] shrink-0" />
@@ -1642,7 +1642,7 @@ export default function ApplyView({ onSuccessSubmit }: ApplyViewProps) {
                             <div className="p-4 bg-[#FAF7EF] border border-[#EADCC2] rounded-2xl select-none text-stone-800 space-y-4">
                               <h5 className="font-serif font-black text-xs uppercase tracking-wide border-b pb-1">Covenant, Agreement & Indemnity</h5>
                               <p className="text-[10.5px] leading-relaxed font-light font-sans text-left">
-                                By signing, I declare that I stand capable and aligned to enter the Covenant under David&apos;s supervising authority. I pledge to pay the full program fees in accordance with the specified package (e.g. R90,000 accommodation or R54,000 standard, or monthly rates R7,500 / R4,500). I understand that the program cost is a one-off fee, and I remain obligated to pay the full amount if I withdraw or am removed from the program. I agree to avoid drinking/smoking/vaping and sexual sin, obey lights-out curfew split-ups (Mon-Thu: 10pm, Fri-Sun: 12am), and submit assignments punctually.
+                                By signing, I declare that I stand capable and aligned to enter the Covenant under David&apos;s supervising authority. I pledge to pay the full program fees in accordance with the specified package (e.g. R90,000 accommodation or R54,000 standard, or monthly rates R7,500 / R4,500). I understand that the program cost is a one-off fee, and I remain obligated to pay the full amount if I withdraw or am removed from the program. I agree to avoid drinking/smoking/vaping and sexual sin, obey lights-out curfew split-ups (Mon-Thu: 9pm, Fri-Sun: 10pm), and submit assignments punctually.
                               </p>
 
                               <label className="flex items-start gap-2 text-xs font-semibold cursor-pointer text-left block text-[#1C1917]">
